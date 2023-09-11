@@ -25,7 +25,7 @@ function copy() {
 
     Toastify({
         text: 'Copied to clipboard',
-        duration: 3000, 
+        duration: 1500, 
         gravity: 'bottom', 
         position: 'center',
         stopOnFocus:false, 
